@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Overall Tests - Prospects Page">
+	<test name="Tests on Chrome browser">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.thoughtworks.workshop.SanityTest"></class>
+		</classes>
+	</test>
+</suite>

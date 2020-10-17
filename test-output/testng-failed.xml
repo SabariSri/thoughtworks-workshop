@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Overall Tests - Prospects Page]">
+  <test thread-count="5" name="Tests on Chrome browser(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.thoughtworks.workshop.SanityTest">
+        <methods>
+          <include name="testMethodSetup"/>
+          <include name="testMethodCleanup"/>
+          <include name="testCart"/>
+        </methods>
+      </class> <!-- com.thoughtworks.workshop.SanityTest -->
+    </classes>
+  </test> <!-- Tests on Chrome browser(failed) -->
+</suite> <!-- Failed suite [Overall Tests - Prospects Page] -->

@@ -1,0 +1,11 @@
+com/basic/problems/TestCartTotal.class
+com/workshop/pages/ItemsGridWallPage.class
+com/basic/problems/SmallestMissingNumber.class
+com/basic/problems/TestRegistration.class
+com/workshop/pages/RegistrationPage.class
+com/workshop/pages/HomePage.class
+com/workshop/pages/CartPage.class
+com/thoughtworks/workshop/SanityTest.class
+com/workshop/pages/LoginPage.class
+com/workshop/base/PageBase.class
+com/workshop/base/TestBase.class
