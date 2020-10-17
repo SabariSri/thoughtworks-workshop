@@ -7,7 +7,7 @@
 //
 //	public static void main(String[] args) {
 //
-//		// For reading input from command line
+//		 For reading input from command line
 //
 //		Scanner scanner = new Scanner(System.in);
 //
