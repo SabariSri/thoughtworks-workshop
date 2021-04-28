@@ -60,11 +60,6 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.18.1</version>
-				<configuration>
-					<suiteXmlFiles>
-						<suiteXmlFile>SanityTest.xml</suiteXmlFile>
-					</suiteXmlFiles>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
